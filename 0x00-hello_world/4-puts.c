@@ -2,11 +2,11 @@
 
 int main(void)
 
-/*
-* main - Entry
-*
-* return (0) - Success
-*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 {
 	puts("\"Programming is like building a multilingual puzzle");
