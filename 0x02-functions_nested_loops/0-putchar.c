@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
- * main : print putchar
- * return : 0
- */
-
+ * main - prints
+ * Return 0
+*/
 
 int main(void)
 {
-	putchar('_');
+	_putchar('c');
 	return (0);
 }
