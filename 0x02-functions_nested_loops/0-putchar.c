@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * main : print putchar
@@ -9,5 +9,5 @@ include "main.h"
 int main(void)
 {
 	_putchar('_');
-	_putchar('p');
+	return (0);
 }
